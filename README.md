@@ -1,4 +1,4 @@
-# BookMyF
+# BookMyFlightAI
 
 This is a simple demonstration of a multi-agent AI system using Streamlit. The system simulates:
 
